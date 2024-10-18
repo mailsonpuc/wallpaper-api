@@ -1,4 +1,4 @@
-@wallpaper_api_HostAddress = http://localhost:5295
+@wallpaper_api_HostAddress = http://localhost:5295/swagger/index.html
 
 GET {{wallpaper_api_HostAddress}}/weatherforecast/
 Accept: application/json
